@@ -9,3 +9,8 @@
 
 
 参考https://github.com/LogicJake/tianchi-loan-default-prediction-top11.git
+
+
+数据train和trainA文件太大，上传不了
+
+如需获取数据可以到竞赛网页下载获到网盘中取：https://pan.baidu.com/s/1jjGGYeU_Ln9PGdqRpuvTmA 提取码: ywix 
